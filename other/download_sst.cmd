@@ -1,1 +1,1 @@
-certutil.exe -generateSSTFromWU C:\Temp\SST\roots.sst
+certutil.exe -generateSSTFromWU -f C:\Temp\roots.sst
